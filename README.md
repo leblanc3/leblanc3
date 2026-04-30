@@ -17,12 +17,7 @@ I bridge the gap between engineering architecture and defensive security through
 
 | Specialization | Associated Project |
 | :--- | :--- |
-| **Network Traffic Analysis & DoS Mitigation** | [DOS Attack Detector 🛡️](https://github.com/yourlink) |
-| **Threat Intelligence & Real-time Monitoring** | [Live Dashboard 📊](https://github.com/yourlink) |
-| **Vulnerability Scanning & Asset Discovery** | [Network Device Scanner 🔍](https://github.com/yourlink) |
-| **Social Engineering & Security Awareness** | [Phishing Email Simulator 🎣](https://github.com/yourlink) |
-| **Digital Forensics & Malware Triage** | [File Type Identification Tool 📂](https://github.com/yourlink) |
-| **Cryptographic Algorithms & Logic** | [Cesar Cipher Tool 🔑](https://github.com/yourlink) |
+
 
 ---
 
